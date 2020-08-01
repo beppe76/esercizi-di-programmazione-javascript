@@ -12,3 +12,10 @@
 
   http://www.imparareaprogrammare.it
 */
+var secondi = 30000;
+cost minuto = 60;
+var minuti = 30000/60;
+console.log(minuti);
+cost ora = 3600;
+var ore = 30000/3600;
+console.log(ore);
